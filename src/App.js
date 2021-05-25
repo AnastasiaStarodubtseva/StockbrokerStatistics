@@ -1,4 +1,6 @@
-import './main.css'
+import './css/main.css'
+import './css/normalize.css'
+import './css/skeleton.css'
 
 function App() {
   return (
